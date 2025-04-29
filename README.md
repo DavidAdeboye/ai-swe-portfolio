@@ -15,9 +15,9 @@
 
 | Project Name | Stack | Purpose |
 | --- | --- | --- |
-| Blog CMS with Auth | Next.js + MongoDB | Core full-stack CRUD logic |
-| Spam Message Classifier | scikit-learn + Streamlit | ML model training + frontend |
-| API Rate Limiter | Node.js + Redis | Infra engineering |
+| [blog-cms-auth](https://github.com/DavidAdeboye/blog-cms-auth) | Next.js + MongoDB | Core full-stack CRUD logic |
+| [spam-message-classifier](https://github.com/DavidAdeboye/spam-message-classifier) | scikit-learn + Streamlit | ML model training + frontend |
+| [api-rate-limiter](https://github.com/DavidAdeboye/api-rate-limiter) | Node.js + Redis | Infra engineering |
 
 ---
 
@@ -34,11 +34,11 @@
 
 | Project | Stack | What You Learn |
 | --- | --- | --- |
-| AI Legal Assistant (RAG) | FastAPI + Next.js + LangChain + PostgreSQL | Full-stack AI search, chunking, embedding |
-| Realtime AI Chat Interface | Next.js + FastAPI + WebSockets + Whisper | LLM + sockets + speech to text |
-| AI-as-a-Service API | FastAPI + HuggingFace + Stripe | Serve models behind endpoint, billing |
-| LLM Chatbot with Vector Search | FastAPI + Qdrant + LangChain + Auth | RAG, auth, chat history |
-| Mini-Autonomous Agent | Python + APIs + LangChain tools | Planning, agent loops, decision-making |
+| [ai-legal-assistant](https://github.com/DavidAdeboye/ai-legal-assistant) | FastAPI + Next.js + LangChain + PostgreSQL | Full-stack AI search, chunking, embedding |
+| [realtime-ai-chat-interface](https://github.com/DavidAdeboye/realtime-ai-chat-interface) | Next.js + FastAPI + WebSockets + Whisper | LLM + sockets + speech to text |
+| [ai-as-a-service-api](https://github.com/DavidAdeboye/ai-as-a-service-api) | FastAPI + HuggingFace + Stripe | Serve models behind endpoint, billing |
+| [llm-chatbot-vector-search](https://github.com/DavidAdeboye/llm-chatbot-vector-search) | FastAPI + Qdrant + LangChain + Auth | RAG, auth, chat history |
+| [mini-autonomous-agent](https://github.com/DavidAdeboye/mini-autonomous-agent) | Python + APIs + LangChain tools | Planning, agent loops, decision-making |
 
 ---
 
@@ -54,11 +54,11 @@
 
 | Project | Stack | What You Learn |
 | --- | --- | --- |
-| AI Code Assistant (Mini Copilot) | Transformers + Monaco Editor + Next.js | Token prediction, embedding code context |
-| Self-Hosted ChatGPT Clone | FastAPI + Supabase + LangChain | LLM playground, vector DB, chat history |
-| Fine-tuned SaaS AI API | LLaMA + FastAPI + Stripe + Redis | Private model serving, billing, caching |
-| Dev Tools AI Suite | Whisper + GPT + GitHub APIs | Commit msg generator, PR summarizer, bug fixer |
-| Background Job Queue System | BullMQ + Node.js or Celery + FastAPI | Queue management for async AI tasks |
+| [ai-code-assistant](https://github.com/DavidAdeboye/ai-code-assistant) | Transformers + Monaco Editor + Next.js | Token prediction, embedding code context |
+| [self-hosted-chatgpt-clone](https://github.com/DavidAdeboye/self-hosted-chatgpt-clone) | FastAPI + Supabase + LangChain | LLM playground, vector DB, chat history |
+| [fine-tuned-saas-ai-api](https://github.com/DavidAdeboye/fine-tuned-saas-ai-api) | LLaMA + FastAPI + Stripe + Redis | Private model serving, billing, caching |
+| [dev-tools-ai-suite](https://github.com/DavidAdeboye/dev-tools-ai-suite) | Whisper + GPT + GitHub APIs | Commit msg generator, PR summarizer, bug fixer |
+| [background-job-queue-system](https://github.com/DavidAdeboye/background-job-queue-system) | BullMQ + Node.js or Celery + FastAPI | Queue management for async AI tasks |
 
 ---
 
