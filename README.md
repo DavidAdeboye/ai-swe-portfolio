@@ -15,7 +15,6 @@
 
 | Project Name | Stack | Purpose |
 | --- | --- | --- |
-| [blog-cms-auth](https://github.com/DavidAdeboye/blog-cms-auth) | Next.js + MongoDB | Core full-stack CRUD logic |
 | [spam-message-classifier](https://github.com/DavidAdeboye/spam-message-classifier) | scikit-learn + Streamlit | ML model training + frontend |
 | [api-rate-limiter](https://github.com/DavidAdeboye/api-rate-limiter) | Node.js + Redis | Infra engineering |
 
